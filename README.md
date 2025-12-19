@@ -116,7 +116,3 @@ The application expects a CSV file named `train.csv` with at least these columns
 - `model/`: Directory containing the saved models and metadata
 - `README.md`: Documentation (this file)
 - `.env`: Environment file containing the Gemini API key (not tracked in git)
-
-## Author
-
-- This project is built by [Anthahkarana](github.com/githubber-me)
